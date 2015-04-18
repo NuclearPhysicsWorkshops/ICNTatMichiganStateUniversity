@@ -10,7 +10,6 @@ AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (
 
 
 
-======= International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability =======
 
 ===== Rationale for the workshop =====
 
@@ -18,7 +17,7 @@ AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (
 
  * LaTeX PDF:
    * For printing and screen viewing, pdf format:
-     * "Standard one-page format": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/aims/pdf/aims-print.pdf", compact: "6 pages per sheet": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/aims/pdf/aims-print6.pdf"
+     * "Standard one-page format": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/aims/pdf/aims-print.pdf"
  * HTML:
    * "Plain html style": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/aims/html/aims.html"
    * "reveal.js beige slide style": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/aims/html/aims-reveal.html"
@@ -31,7 +30,7 @@ AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (
 
  * LaTeX PDF:
    * For printing and screen viewing, pdf format:
-     * "Standard one-page format": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/prog/pdf/prog-print.pdf", compact: "6 pages per sheet": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/prog/pdf/prog-print6.pdf"
+     * "Standard one-page format": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/prog/pdf/prog-print.pdf"
  * HTML:
    * "Plain html style": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/prog/html/prog.html"
    * "reveal.js beige slide style": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/prog/html/prog-reveal.html"
@@ -44,7 +43,7 @@ AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (
 
  * LaTeX PDF:
    * For printing and screen viewing, pdf format:
-     * "Standard one-page format": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/list/pdf/list-print.pdf", compact: "6 pages per sheet": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/list/pdf/list-print6.pdf"
+     * "Standard one-page format": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/list/pdf/list-print.pdf"
  * HTML:
    * "Plain html style": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/list/html/list.html"
    * "reveal.js beige slide style": "http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub/list/html/list-reveal.html"

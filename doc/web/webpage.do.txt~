@@ -1,71 +1,40 @@
 # Strange way of testing for vortex...
 # #ifdef NON_VORTEX
-TITLE: Overview of course material: PHY981 Nuclear Structure 
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
 
 TOC: off
 # #else
-TITLE: Overview of course material: PHY981 Nuclear Structure 
-AUTHOR: Morten Hjorth-Jensen  Email:hjensen@nscl.msu.edu
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
+AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University and University of Oslo) and Jason D. Holt (TRIUMF)
 # #endif
 
 <%
-pub_url = 'http://nuclearstructure.github.io/PHY981/doc/pub'
-published = ['intro', 'spdata', 'hfock', 'secondquant', 'forces', 'fci', 'decays', 'simplemodels', 'mbpt', 'cc', 'srg', 'gf', 'mc', 'inf',]
+pub_url = 'http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub'
+published = ['aims', 'prog', 'list',]
 chapters = {
- 'intro': 'Introduction to nuclear structure',
- 'spdata': 'Single-particle data, experimental information and simple models',
- 'hfock': 'Mean-field theories',
- 'secondquant': 'Second quantization',
- 'forces': 'Models for nuclear forces',
- 'fci': 'The nuclear shell model and full configuration interaction theory',
- 'decays': 'Nuclear decays',
- 'simplemodels': 'Pairing, random-phase approximation and simple models',
- 'mbpt': 'Effective interactions for the nuclear shell-model',
- 'cc': 'Coupled cluster theory and nuclear structure',
- 'srg': 'Similarity transformation methods',
- 'gf': 'Green function theory based methods',
- 'mc': 'Monte Carlo  methods',
- 'inf': 'From nuclei to stars, properties of infinite nuclear matter, symmetric and neutron rich',
+ 'aims': 'Rationale for the workshop',
+ 'prog': 'Program for all three weeks',
+ 'list': 'List of participants and duration of their stays',
 }
 %>
-
-
-
 
 
 <%def name="text_types(name)">
 
  * LaTeX PDF:
-   * For printing:
+   * For printing and screen viewing, pdf format:
      * "Standard one-page format": "${pub_url}/${name}/pdf/${name}-print.pdf", compact: "6 pages per sheet": "${pub_url}/${name}/pdf/${name}-print6.pdf"
-   * For screen viewing:
-     * "standard Beamer format": "${pub_url}/${name}/pdf/${name}-beamer.pdf"
  * HTML:
    * "Plain html style": "${pub_url}/${name}/html/${name}.html"
    * "reveal.js beige slide style": "${pub_url}/${name}/html/${name}-reveal.html"
- * iPython notebook:
-   * "ipynb file": "${pub_url}/${name}/ipynb/${name}.ipynb"
 
 </%def>
 
 <%def name="slide_types(name)">
 </%def>
 
-The teaching material is produced in various formats for printing and on-screen reading.
 
-!split
-The PDF files are based on LaTeX and have seldom technical
-failures that cannot be easily corrected.
-The HTML-based files, called ``HTML'' and ``ipynb'' below, apply MathJax
-for rendering LaTeX formulas and sometimes this technology gives rise
-to unexpected failures (e.g.,
-incorrect rendering in a web page despite correct LaTeX syntax in the
-formula). Consult the corresponding PDF
-files if you find missing or incorrectly rendered
-formulas in HTML or ipython notebook files.
-
-
-======= PHY981: Nuclear Structure notes =======
+======= International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability =======
 
 % for ch in published:
 ===== ${chapters[ch]} =====

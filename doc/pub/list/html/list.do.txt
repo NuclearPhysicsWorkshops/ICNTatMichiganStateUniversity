@@ -1,0 +1,71 @@
+# Text for ICNT workshop
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
+AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University) and Jason D. Holt (TRIUMF)
+
+DATE: May 11-29, 2015, Michigan State University and FRIB/NSCL
+
+
+!split
+===== Participants =====
+!bblock 
+
+|---------------------------------------------------------------------------------------------------------------------|
+| Name      | Institution                                     |   Email address |Time period  present         |
+|---------------------------------------------------------------------------------------------------------------------|
+| Scott Bogner | MSU                          | bogner@nscl.msu.edu                 | May 11-29               |
+| Morten Hjorth-Jensen | MSU and UOslo         | hjensen@msu.edu                 | May 11-15 and 25-29           |
+| Jason Holt | TRIUMF                                        | jholt@triumf.ca                 | May 11-29           |
+|Heiko Hergert	|MSU|	hergert@nscl.msu.edu|	May 11-29|
+|Toshio Suzuki |	Nihon University|	suzuki@phys.chs.nihon-u.ac.jp| May 24-29|
+|Mihai Horoi|	Central Michigan University|	mihai.horoi@cmich.edu| May 11-22|
+|Kamila Sieja|	IPHC Strasbourg|	kamila.sieja@iphc.cnrs.fr| May 24-30 |
+|Calvin Johnson|	San Diego State University|	cjohnson@mail.sdsu.edu| May 17-29|
+|Alex Gezerlis|	University of Guelph|	gezerlis@uoguelph.ca| May 10-19|
+|Andreas Ekstrom|	University of Tennessee|	ekstrom@utk.edu	| May 10-20|
+|Thomas	Duguet|	CEA/Saclay/SPhN|	thomas.duguet@cea.fr| May 18-27|
+|Nunzio Itaco|	Università di Napoli Federico II|	itaco@na.infn.it| May 23-30  |
+|Luigi Coraggio|	INFN - Naples|	luigi.coraggio@na.infn.it| May 23-30|
+|Zach Kohley|	MSU|	kohley@nscl.msu.edu | May 11-29 |
+|Gustav Jansen|	UTK/ORNL|	gustav.jansen@utk.edu| May 10-15 |
+|Alex Brown|	MSU|	brown@nscl.msu.edu| May 11-29 |
+|Angelo Calci|	TRIUMF|	calci@triumf.ca| May 10-22|
+|Kazuo Takayanagi|	Sophia University|	k-takaya@sophia.ac.jp| May 24-31  |
+|Ragnar Stroberg|	TRIUMF|	sstroberg@triumf.ca |May 18-29 |
+|Hossein Mahzoon|	Washington University in St. Louis|	mmahzoon@physics.wustl.edu| May 18-22|
+|Artemis Spyrou|	MSU|	spyrou@nscl.msu.edu | May 11-15 |
+|Heather Crawford|	Lawrence Berkeley National Laboratory|	HLCrawford@lbl.gov|	May 10-16|
+|Frederic Nowacki|	IPHC Strasbourg|	frederic.nowacki@iphc.cnrs.fr|	May 24-30 |
+|Nadezda Smirnova|	CENBG Bordeaux|	smirnova@cenbg.in2p3.fr| May 23-30|
+|Robert	Grzywacz|	University of Tennessee, ORNL|	rgrzywac@utk.edu| May 25-28  |
+|Marcella Grasso|	Institut de Physique Nucléaire, Orsay|	grasso@ipno.in2p3.fr|	May 17-22 |
+|Naofumi Tsunoda|       Tokyo University| tsunoda@nt.phys.s.u-tokyo.ac.jp| May 24-30|
+| Kai Hebeler|  TU Darmstadt| kai.hebeler@physik.tu-da.de| May 17-22|
+| Yutaka Utsuno|  Japan Atomic Energy Agency| utsuno.yutaka@jaea.go.jp| May 10-16|
+| Takaharu Otsuka|  Tokyo University|otsuka@phys.s.u-tokyo.ac.jp | May 11-16|
+|Titus Morris | MSU |morrist@nscl.msu.edu  | May 11-29 |
+|Adam Jones | MSU |jonesad@nscl.msu.edu  | May 11-29 |
+|Justin Lietz | MSU | lietz@nscl.msu.edu | May 11-29 |
+|Nathan Parzuchowski | MSU |  Parzuchowski@frib.msu.edu | May 11-29 |
+|Sam Novario | MSU |novarios@nscl.msu.edu  | May 11-29 |
+|Fei Yuan | MSU |yuan@nscl.msu.edu  | May 11-29 |
+|Jimmy Rotureau | MSU/ORNL |  rotureau@chalmers.se| May 11-29 |
+|Kevin Fossez | MSU |  fossez@nscl.msu.edu| May 11-29 |
+|Bruce Barrett | UArizona | bbarrett@physics.arizona.edu | May 17-23 |
+|James Vary | Iowa State University |jvary@iastate.edu  | May 17-22 |
+| Robert Roth| TU Darmstadt| robert.roth@physik.tu-darmstadt.de| May 17-23|
+|Alexandra Gade | MSU | gade@nscl.msu.edu| May 11-15 |
+|George Papadimitriou| Iowa State University |georgios@istate.edu| May 17-23|
+|----------------------------------------------------------------------------------------------------------------------|
+
+!eblock
+
+
+!split
+===== Contact =====
+!bblock 
+Please contact any of the organizers (bogner@nscl.msu.edu, hjensen@msu.edu, holt@triumf.ca) or Linna Leslie with any questions, comments, or concerns:
+lesliel@nscl.msu.edu Phone +1-(517) 908-7333, Fax +1-(517) 353-5967 
+
+!eblock
+
+

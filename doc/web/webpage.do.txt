@@ -1,0 +1,46 @@
+# Strange way of testing for vortex...
+# #ifdef NON_VORTEX
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
+
+TOC: off
+# #else
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
+AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University and University of Oslo) and Jason D. Holt (TRIUMF)
+# #endif
+
+<%
+pub_url = 'http://nuclearphysicsworkshops.github.io/ICNTatMichiganStateUniversity/doc/pub'
+published = ['aims', 'prog', 'list',]
+chapters = {
+ 'aims': 'Rationale for the workshop',
+ 'prog': 'Program for all three weeks',
+ 'list': 'List of participants and duration of their stays',
+}
+%>
+
+
+<%def name="text_types(name)">
+
+ * LaTeX PDF:
+   * For printing and screen viewing, pdf format:
+     * "Standard one-page format": "${pub_url}/${name}/pdf/${name}-print.pdf", compact: "6 pages per sheet": "${pub_url}/${name}/pdf/${name}-print6.pdf"
+ * HTML:
+   * "Plain html style": "${pub_url}/${name}/html/${name}.html"
+   * "reveal.js beige slide style": "${pub_url}/${name}/html/${name}-reveal.html"
+
+</%def>
+
+<%def name="slide_types(name)">
+</%def>
+
+
+======= International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability =======
+
+% for ch in published:
+===== ${chapters[ch]} =====
+
+${text_types(ch)}
+
+% endfor
+
+

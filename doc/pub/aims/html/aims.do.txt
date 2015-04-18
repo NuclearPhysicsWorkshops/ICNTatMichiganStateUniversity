@@ -1,0 +1,137 @@
+# Text for ICNT workshop
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
+AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University) and Jason D. Holt (TRIUMF)
+
+DATE: May 11-29, 2015, Michigan State University and FRIB/NSCL
+
+!split
+===== Motivation =====
+
+!bblock 
+
+
+The pioneering activities of rare-isotope beam (RIB) facilities worldwide have 
+ushered in a new era of nuclear physics over the past decades. With the advent of 
+the next generation of facility upgrades, such as FRIB in the US, FAIR in Germany, 
+and RIBF in Japan, thousands of undiscovered nuclei, often existing at the very 
+limits of stability, will be created and studied in the laboratory. These exotic 
+systems exhibit behavior distinct from their stable counterparts, and the quest to 
+discover and understand their properties from first principles represents a 
+cornerstone of modern nuclear science.
+
+Since much of nuclear structure theory has been developed in the
+context of stable systems, one of the central theoretical challenges
+in the next few years will be to develop new or extend existing models
+to elucidate and predict the novel features of nuclei at the limits of
+stability.  
+
+At the heart of this theoretical effort are three fundamental issues that must be confronted:
+* the effects of many-nucleon, in particular three-nucleon (3N), forces, 
+* the development of reliable techniques for solving the nuclear many-body problem in the medium- and heavy- mass regions of the nuclear chart with quantifiable theoretical uncertainties, and 
+* the proper inclusion of continuum degrees of freedom for loosely bound systems. 
+
+The primary objective of this program will be to develop theoretical tools to  address these issues head-on, thereby laying the groundwork for a predictive and comprehensive theory of open-shell nuclei at the limits of stability.  The emerging predictions can furthermore serve as a guide for future experimental efforts at RIB facilities, such as FRIB at Michigan State University, where we propose to host this program.  Therefore the contributions of leading experimental scientists exploring exotic regions that link tightly with this proposal such as oxygen, fluorine, neon, potassium, calcium, nickel, copper and tin isotopes, will constitute an important component of this program.
+!eblock
+
+
+
+!split
+===== Plans for the workshop =====
+!bblock
+The workshop aims at addressing three important theoretical topics in the analysis
+of present and future experiments.  These are
+* Construction of effective Hamiltonians for nuclei close to the driplines
+* Advances in large-scale computations of many-body systems
+* Applications to nuclear physics observables
+
+The first topic of the program will focus on constructing non-empirical 
+valence-space Hamiltonians and effective operators using *ab initio* 
+many-body methods starting from the underlying two- and three-body interactions 
+between nucleons. We will explore how this can be achieved within different  *ab initio* frameworks, and the potential to use the resulting non-empirical
+valence-space Hamiltonians as a possible benchmark between many-body 
+theories. We will also examine how such non-empirical valence Hamiltonians can 
+serve as an improved starting point for the development of empirical shell model 
+interactions adjusted to data. 
+
+The workshop will also focus on advancements in large-space diagonalization techniques which will be needed to efficiently 
+deal with the large dimensions encountered in mid-shell systems with explicit treatment of three-body interactions and continuum degrees of freedom. Applications and confrontation with experiment is an equally essential ingredient of this workshop.
+At the end of the program, a small group of core participants will generate a roadmap that lays out the necessary next steps towards the development of a predictive and comprehensive theory of exotic open-shell nuclei (e.g., identify near-term benchmark calculations and key experimental observables to constrain/test theory, assess the strengths and weaknesses of the methods/algorithms discussed during the program, etc.). This roadmap, together with a summary of the present status of the field, will be written up in a final report. Additionally, all presentations will be publicly available at the program web site. 
+!eblock
+
+
+
+!split
+===== Scientific goals =====
+!bblock 1) Construction of effective Hamiltonians for nuclei close to the driplines
+The framework of many-body perturbation theory (MBPT) has been used in the past 
+for constructing effective valence-space Hamiltonians, but it is known to suffer a number of shortcomings (issues of convergence, sensitivity to harmonic oscillator frequency, etc.), and extending it to nuclei near the drip lines requires numerous non-trivial extensions. While MBPT has previously been used calculate 
+valence-shell interactions for medium-mass nuclei based on NN+3N forces, 
+recently a number of improved non-perturbative methods have been developed for this purpose.  A prescription exists to construct a valence-space Hamiltonian from no-core shell model 
+calculations but is currently limited to $p$-shell nuclei.  The first 
+nonperturbative technique for constructing valence-space Hamiltonians in 
+medium-mass nuclei that is computationally feasible is the in-medium similarity 
+renormalization group (IM-SRG), which decouples orbitals outside a given 
+valence space through a continuous sequence of unitary transformations.  
+We will investigate applications of the IM-SRG and MBPT (in standard and extended valence 
+spaces) in the exotic oxygen and fluorine isotopes to evaluate the performance of both methods while highlighting possible new experiments which could further constrain and test both methods.  A particular focus will be on cross-shell matrix elements, which may be prone to spurious center-of-mass contamination and are found to 
+be large in MBPT calculations, but are widely set to small values in 
+phenomenological studies.  We will also discuss other approaches to construct valence Hamiltonians, for example from 
+coupled-cluster theory and self-consistent Green's function methods. Finally, we will examine how the non-empirical valence Hamiltonians can be used as an improved starting point for constructing empirical shell model interactions adjusted to data.
+!eblock
+
+!bblock 2) Large-scale diagonalization and improving phenomenological models 
+Exact diagonalization of extended valence-space Hamiltonians with continuum degrees of freedom quickly becomes a bottleneck due to the combinatorial growth in
+dimensions encountered for mid-shell nuclei. Methods such as Monte Carlo shell model
+and importance-truncated shell model, however, present attractive
+alternatives to exact diagonalization in extended valence spaces.  The
+recently developed full configuration interaction quantum Monte Carlo method (FCIQMC), holds great promise for tackling systems with large
+spaces, making it possible to study nuclei close to the limits of
+stability.
+
+Ultimately our theoretical understanding of most medium-mass nuclei has come 
+from phenomenological models, which take various microscopic valence-space 
+Hamiltonians as starting points, which are then adjusted to experimental data.  Since in some cases valence-space Hamiltonians based on NN+3N forces can describe experimental 
+data at a level comparable with phenomenology, it is an open question whether a 
+common mechanism exists between models which is responsible for exotic 
+phenomena such as new magic numbers.  We can furthermore explore the 
+intriguing possibility to produce new phenomenological Hamiltonians starting from 
+the improved microscopic Hamiltonians in both standard and 
+extended valence spaces. The latter should most likely include effects from resonant states and/or the non-resonant continuum.
+!eblock
+
+!bblock 3) Applications to nuclear physics observables
+
+Besides the theoretical developments which are needed to tackle systems with many degrees of freedom, the theory developments  will be tightly linked with key experimental results and programs of nuclei close to the limit of stability. 
+To confront theory with data is essential in developing reliable theoretical tools. In particular, for coming studies 
+of weak interactions in nuclei.
+
+!eblock
+
+!split
+===== Possible additional topics =====
+!bblock Developing theoretical uncertainties
+Global theoretical
+studies of isotopic chains, such as the chains of calcium, nickel or
+tin isotopes, make it possible to test systematic properties of
+nuclear models, although a quantitative
+comparison of various experimental data with quantified theoretical
+uncertainties still remains a major challenge for nuclear science. To
+address this shortcoming, we would also like to 
+focus on developing reliable theoretical error bars in many-body
+calculations of open-shell nuclei. This is a multifaceted endeavor that will involve examining the interplay of uncertainties from various sources
+such as effective field theory (EFT) truncation errors and uncertainties in the
+fitted parameters of the input EFT interactions, truncated renormalization, basis-set
+truncation errors, and truncation errors in the particular level of
+many-body approximation. 
+!eblock
+
+
+!split
+===== Contact =====
+!bblock 
+Please contact any of the organizers (bogner@nscl.msu.edu, hjensen@msu.edu, holt@triumf.ca) or Linna Leslie with any questions, comments, or concerns:
+lesliel@nscl.msu.edu Phone +1-(517) 908-7333, Fax +1-(517) 353-5967 
+
+!eblock
+
+

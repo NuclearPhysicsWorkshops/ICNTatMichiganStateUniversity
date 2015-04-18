@@ -1,0 +1,91 @@
+# Text for ICNT workshop
+TITLE: International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
+AUTHOR: Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University) and Jason D. Holt (TRIUMF)
+
+DATE: May 11-29, 2015, Michigan State University and FRIB/NSCL
+
+
+!split
+===== Program first week May 11-15 2015 =====
+!bblock 
+
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Time      | Monday                      |   Tuesday                |  Wednesday                     |  Thursday                         |  Friday                   |   
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9.30am-10.30am  | Andreas Ekstrom (ORNL/UTK)  |  Takaharu Otsuka (Tokyo) | Artemis Spyrou (MSU) | Gustav Jansen (UTK/ORNL)      |  Mihai Horoi (CMU)  |
+|           | Constraining the Description of the Nuclear Interaction      |                          |  Using beta-decays to constrain (n,g) reaction cross sections on short lived nuclei                              |  Effective interactions and operators from coupled-cluster theory                               |                           |
+|------------------------------------------------------------------------------------------------------------------------------------------|
+| 10.30am-11am |  Coffee break          |  Coffee break  |  Coffee break | Coffee break |  Coffee break |
+|---------------------------------------------------------------------------------|
+| 11am-12pm | Heiko Hergert (MSU) | Alexandra Gade (MSU)|   Yutaka Utsuno (Japan Atomic Energy Agency)        | Heather Crawford (LBNL)           | Alex Gezerlis (Guelph)                      |
+|           | Effective interactions and operators from IM-SRG           |   Nuclear spectroscopy of exotic nuclei             |Probing shell evolution with large-scale shell-model calculations              |  Neutron Knockout to Probe Single Particle Occupancies in the Ca Isotopes        |    Quantum Monte Carlo calculations with chiral two- and three-nucleon forces|
+|---------------------------------------------------------------------------------|
+| 12pm-2pm  |  Lunch     |  Lunch         |  Lunch       |  Lunch      | Lunch    |
+|---------------------------------------------------------------------------------|
+| 2pm-3.30pm   | Discussions  | Discussions | Discussions | Discussions | Discussions|
+|---------------------------------------------------------------------------------|        
+| 3.30pm-4pm |  Coffee break          |  Coffee break  |  Coffee break | Coffee break |  Coffee break |
+| 4pm-6pm   | Discussions            | Discussions               | Discussions             | Discussions            | Discussions         |
+|---------------------------------------------------------------------------------|
+
+!eblock
+
+
+!split
+===== Program second week May 18-22 2015 =====
+!bblock 
+
+|---------------------------------------------------------------------------------|
+| Time      | Monday     |   Tuesday      |  Wednesday   |  Thursday   |  Friday  |   
+|---------------------------------------------------------------------------------|
+| 9am-10am  | Jimmy Rotureau (ORNL/MSU)  | Hossein Mahzoon (St Louis) |Robert Roth (Darmstadt)  |   Bruce Barrett (UA)           |  Marcella Grasso (Orsay)         |
+|           | Complex scaling  |  Dispersive Optical Model            |   News from *ab initio* theory           | Microscopic shell-model calculations in the $sd$-shell            | Beyond-mean-field corrections and effective interactions         |
+|---------------------------------------------------------------------------------|
+| 10am-11am | George Papadimitriou (ISU) | Zach Kohley (MSU)  |  Ragnar Stroberg (TRIUMF)           |   Angelo Calci (TRIUMF)          |  Thomas Duguet (Saclay)        |
+|           | Structure and Reactions of nuclei using complex energy formalisms        | Structure and Decay of Neutron Unbound Systems              | Ab-initio shell model with IM-SRG             | SRG Evolved Chiral *NN+3N* Interactions in ab initio Nuclear Structure            |  Symmetry restored coupled cluster theory        |
+|---------------------------------------------------------------------------------|
+| 11am-11.30am |  Coffee break          |  Coffee break  |  Coffee break | Coffee break |  Coffee break |
+|---------------------------------------------------------------------------------|
+| 11.30am-12.30pm | Alexander Volya (FSU)       | Kevin Fossez (MSU)   | Kai Hebeler (Darmstadt)             |    James Vary (ISU)        |  Titus Morris (MSU)      |
+|        | Complex scaling        |                |  Neutron-rich matter and chiral EFT interactions at N3LO            |             |    In-medium SRG      |
+|---------------------------------------------------------------------------------|
+| 12.30pm-2pm  |  Lunch     |  Lunch         |  Lunch       |  Lunch      | Lunch    |
+|---------------------------------------------------------------------------------|
+| 2pm-3.30pm   | Discussions  | Discussions | Discussions | Discussions | Discussions|
+|---------------------------------------------------------------------------------|        
+| 3.30pm-4pm |  Coffee break          |  Coffee break  |  Coffee break | Coffee break |  Coffee break |
+| 4pm-6pm   | Discussions            | Discussions               | Discussions             | Discussions            | Discussions         |
+|---------------------------------------------------------------------------------|
+
+
+!eblock
+
+
+!split
+===== Program third week May 25-29 2015 =====
+!bblock 
+
+|---------------------------------------------------------------------------------|
+| Time      | Monday     |   Tuesday      |  Wednesday   |  Thursday   |  Friday  |   
+|---------------------------------------------------------------------------------|
+| 9.30am-10.30am  | Luigi Coraggio (INFN, Naples)        | Nadya Smirnova (Bordeaux)  |  Calvin Johnson (UCSD)            |   Kazuo Takayanagi (Tokyo)           |Frederic Nowacki (Strasbourg)          |
+|           | A new double-step procedure for the derivation of effective shell-model hamiltonians   |	Isospin-symmetry breaking in $sd$ and $pf$ shell nuclei and applications |  Large scale shell model calculations for open shell nuclei       |   	Inverse scattering problem and generalized optical theorem         |  Shell-model far from stability        |
+|---------------------------------------------------------------------------------|
+| 10.30am-11am |  Coffee break          |  Coffee break  |  Coffee break | Coffee break |  Coffee break |
+|---------------------------------------------------------------------------------|
+| 11am-12pm |  Toshio Suzuki (Tokyo)   | Kamila Sieja (Strasbourg)  | Robert Gzrywacz (ORNL/UTK) |  Nunzio Itaco (Naples)  |  Naofumi Tsunoda (Tokyo)        |
+|           |  Evaluation of nuclear weak rates relevant to astrophysical applications         |   Shell evolution and collectivity in model spaces above 78Ni and 132Sn cores             |    	Experimental studies of the deeply bound states          |  	Present status of perturbative calculation of effective shell-model hamiltonians           |  Multi-shell Effective interactions    |
+|---------------------------------------------------------------------------------|
+| 12pm-2pm  |  Lunch     |  Lunch         |  Lunch       |  Lunch      | Lunch    |
+|---------------------------------------------------------------------------------|
+| 2pm-3.30pm   | Discussions  | Discussions | Discussions | Discussions | Discussions|
+|---------------------------------------------------------------------------------|        
+| 3.30pm-4pm |  Coffee break          |  Coffee break  |  Coffee break | Coffee break |  Coffee break |
+| 4pm-6pm   | Discussions            | Discussions               | Discussions             | Discussions            | Discussions         |
+|---------------------------------------------------------------------------------|
+
+
+!eblock
+
+
+

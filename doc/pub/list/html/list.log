@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  17 APR 2015 22:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  20 APR 2015 09:04
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1085,19 +1085,20 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
 )
-Overfull \hbox (274.01463pt too wide) in paragraph at lines 116--165
+Overfull \hbox (274.01463pt too wide) in paragraph at lines 116--167
 [][] 
  []
 
 [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
 No file list.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
-[2] [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
  (./list.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
 
 
  *File List*
@@ -1237,15 +1238,15 @@ epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
    uni-0.def    2012/04/20 UCS: Unicode data U+0000..U+00FF
  ***********
 
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
 Package rerunfilecheck Info: File `list.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
  ) 
 Here is how much of TeX's memory you used:
  22198 strings out of 493488
  393794 string characters out of 3141326
- 511471 words of memory out of 3000000
+ 512471 words of memory out of 3000000
  25048 multiletter control sequences out of 15000+200000
  37924 words of font info for 52 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1254,7 +1255,7 @@ Here is how much of TeX's memory you used:
 texlive/2012/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 12/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2012/texmf-d
 ist/fonts/type1/public/lm/lmr10.pfb>
-Output written on list.pdf (3 pages, 90459 bytes).
+Output written on list.pdf (3 pages, 90540 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream

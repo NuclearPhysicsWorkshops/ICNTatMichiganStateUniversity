@@ -1,60 +1,103 @@
-%%
-%% Automatically generated file from DocOnce source
-%% (https://github.com/hplgit/doconce/)
-%%
-%%
 
+% LaTeX Beamer file automatically generated from DocOnce
+% https://github.com/hplgit/doconce
 
-%-------------------- begin preamble ----------------------
+%-------------------- begin beamer-specific preamble ----------------------
 
-\documentclass[%
-twoside,                 % oneside: electronic viewing, twoside: printing
-final,                   % or draft (marks overfull hboxes, figures with paths)
-10pt]{article}
+\documentclass{beamer}
 
-\listfiles               % print all files needed to compile this document
+\usetheme{red_plain}
+\usecolortheme{default}
 
-\usepackage{relsize,makeidx,color,setspace,amsmath,amsfonts}
-\usepackage[table]{xcolor}
-\usepackage{bm,microtype}
+% turn off the almost invisible, yet disturbing, navigation symbols:
+\setbeamertemplate{navigation symbols}{}
 
-\usepackage[T1]{fontenc}
+% Examples on customization:
+%\usecolortheme[named=RawSienna]{structure}
+%\usetheme[height=7mm]{Rochester}
+%\setbeamerfont{frametitle}{family=\rmfamily,shape=\itshape}
+%\setbeamertemplate{items}[ball]
+%\setbeamertemplate{blocks}[rounded][shadow=true]
+%\useoutertheme{infolines}
+%
+%\usefonttheme{}
+%\useinntertheme{}
+%
+%\setbeameroption{show notes}
+%\setbeameroption{show notes on second screen=right}
+
+% fine for B/W printing:
+%\usecolortheme{seahorse}
+
+\usepackage{pgf,pgfarrows,pgfnodes,pgfautomata,pgfheaps,pgfshade}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{relsize}
+
+\usepackage{fancybox}  % make sure fancybox is loaded before fancyvrb
+
+\usepackage{fancyvrb}
+%\usepackage{minted} % requires pygments and latex -shell-escape filename
+%\usepackage{anslistings}
+
+\usepackage{amsmath,amssymb,bm}
 %\usepackage[latin1]{inputenc}
-\usepackage{ucs}
-\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{colortbl}
+\usepackage[english]{babel}
+\usepackage{tikz}
+\usepackage{framed}
+% Use some nice templates
+\beamertemplatetransparentcovereddynamic
 
-\usepackage{lmodern}         % Latin Modern fonts derived from Computer Modern
+% --- begin table of contents based on sections ---
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each section:
+% (Only section headings can enter the table of contents in Beamer
+% slides generated from DocOnce source, while subsections are used
+% for the title in ordinary slides.)
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>[plain]
+  \frametitle{}
+  %\frametitle{Outline}
+  \tableofcontents[currentsection]
+  \end{frame}
+}
+% --- end table of contents based on sections ---
 
-% Hyperlinks in PDF:
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command:
+
+%\beamerdefaultoverlayspecification{<+->}
+
+\newcommand{\shortinlinecomment}[3]{\note{\textbf{#1}: #2}}
+\newcommand{\longinlinecomment}[3]{\shortinlinecomment{#1}{#2}{#3}}
+
 \definecolor{linkcolor}{rgb}{0,0,0.4}
-\usepackage{hyperref}
 \hypersetup{
-    breaklinks=true,
     colorlinks=true,
     linkcolor=linkcolor,
     urlcolor=linkcolor,
-    citecolor=black,
-    filecolor=black,
-    %filecolor=blue,
     pdfmenubar=true,
     pdftoolbar=true,
-    bookmarksdepth=3   % Uncomment (and tweak) for PDF bookmarks with more levels than the TOC
+    bookmarksdepth=3
     }
-%\hyperbaseurl{}   % hyperlinks are relative to this root
+\setlength{\parskip}{0pt}  % {1em}
 
-\setcounter{tocdepth}{2}  % number chapter, section, subsection
+\newenvironment{doconceexercise}{}{}
+\newcounter{doconceexercisecounter}
+\newenvironment{doconce:movie}{}{}
+\newcounter{doconce:movie:counter}
 
-\usepackage[framemethod=TikZ]{mdframed}
+\newcommand{\subex}[1]{\noindent\textbf{#1}}  % for subexercises: a), b), etc
 
-% --- begin definitions of admonition environments ---
+%-------------------- end beamer-specific preamble ----------------------
 
-% --- end of definitions of admonition environments ---
+% Add user's preamble
 
-% prevent orhpans and widows
-\clubpenalty = 10000
-\widowpenalty = 10000
 
-% --- end of standard preamble for documents ---
 
 
 % insert custom LaTeX commands...
@@ -68,6 +111,7 @@ final,                   % or draft (marks overfull hboxes, figures with paths)
 
 
 
+
 % ------------------- main content ----------------------
 
 % Text for ICNT workshop
@@ -75,44 +119,30 @@ final,                   % or draft (marks overfull hboxes, figures with paths)
 
 % ----------------- title -------------------------
 
-\thispagestyle{empty}
-
-\begin{center}
-{\LARGE\bf
-\begin{spacing}{1.25}
-International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability
-\end{spacing}
-}
-\end{center}
+\title{International Collaborations in Nuclear Theory: Theory for open-shell nuclei near the limits of stability}
 
 % ----------------- author(s) -------------------------
 
-\begin{center}
-{\bf Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University) and Jason D. Holt (TRIUMF)${}^{}$} \\ [0mm]
-\end{center}
-
-    \begin{center}
-% List of all institutions:
-\end{center}
-    
+\author{Scott K. Bogner (NSCL/Michigan State University), Morten Hjorth-Jensen (NSCL/Michigan State University) and Jason D. Holt (TRIUMF)\inst{}}
+\institute{}
 % ----------------- end author(s) -------------------------
 
 
-\begin{center} % date
-May 11-29, 2015, Michigan State University and FRIB/NSCL
-\end{center}
+\date{May 11-29, 2015, Michigan State University and FRIB/NSCL
+% <optional titlepage figure>
+}
 
-\vspace{1cm}
+\begin{frame}[plain,fragile]
+\titlepage
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Program first week May 11-15 2015}
+
+\begin{block}{}
 
 
-% !split
-\subsection{Program first week May 11-15 2015}
-
-% --- begin paragraph admon ---
-\paragraph{}
-
-
-\begin{quote}
+{\footnotesize
 \begin{tabular}{cccccc}
 \hline
 \multicolumn{1}{c}{ Time } & \multicolumn{1}{c}{ Monday } & \multicolumn{1}{c}{ Tuesday } & \multicolumn{1}{c}{ Wednesday } & \multicolumn{1}{c}{ Thursday } & \multicolumn{1}{c}{ Friday } \\
@@ -133,22 +163,19 @@ May 11-29, 2015, Michigan State University and FRIB/NSCL
 4pm-6pm        & Discussions                                             & Discussions                           & Discussions                                                                        & Discussions                                                              & Discussions                                                                \\
 \hline
 \end{tabular}
-\end{quote}
+}
 
 \noindent
-% --- end paragraph admon ---
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Program second week May 18-22 2015}
+
+\begin{block}{}
 
 
-
-
-% !split
-\subsection{Program second week May 18-22 2015}
-
-% --- begin paragraph admon ---
-\paragraph{}
-
-
-\begin{quote}
+{\footnotesize
 \begin{tabular}{cccccc}
 \hline
 \multicolumn{1}{c}{ Time } & \multicolumn{1}{c}{ Monday } & \multicolumn{1}{c}{ Tuesday } & \multicolumn{1}{c}{ Wednesday } & \multicolumn{1}{c}{ Thursday } & \multicolumn{1}{c}{ Friday } \\
@@ -172,22 +199,20 @@ May 11-29, 2015, Michigan State University and FRIB/NSCL
 4pm-6pm         & Discussions                                                       & Discussions                                    & Discussions                                             & Discussions                                                                 & Discussions                                              \\
 \hline
 \end{tabular}
-\end{quote}
+}
 
 \noindent
-% --- end paragraph admon ---
+
+\end{block}
+\end{frame}
+
+\begin{frame}[plain,fragile]
+\frametitle{Program third week May 25-29 2015}
+
+\begin{block}{}
 
 
-
-
-% !split
-\subsection{Program third week May 25-29 2015}
-
-% --- begin paragraph admon ---
-\paragraph{}
-
-
-\begin{quote}
+{\footnotesize
 \begin{tabular}{cccccc}
 \hline
 \multicolumn{1}{c}{ Time } & \multicolumn{1}{c}{ Monday } & \multicolumn{1}{c}{ Tuesday } & \multicolumn{1}{c}{ Wednesday } & \multicolumn{1}{c}{ Thursday } & \multicolumn{1}{c}{ Friday } \\
@@ -208,20 +233,11 @@ May 11-29, 2015, Michigan State University and FRIB/NSCL
 4pm-6pm        & Discussions                                                                          & Discussions                                                                 & Discussions                                                & Discussions                                                                      & Discussions                                \\
 \hline
 \end{tabular}
-\end{quote}
+}
 
 \noindent
-% --- end paragraph admon ---
 
-
-
-
-
-
-% ------------------- end of main content ---------------
-
-
-\printindex
+\end{block}
+\end{frame}
 
 \end{document}
-

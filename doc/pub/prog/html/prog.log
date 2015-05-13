@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  12 MAY 2015 06:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 MAY 2015 06:52
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1090,7 +1090,7 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (1597.7087pt too wide) in paragraph at lines 146--167
+Overfull \hbox (1541.01488pt too wide) in paragraph at lines 146--167
 [][] 
  []
 
@@ -1269,7 +1269,7 @@ ist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/
 type1/public/lm/lmmi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publ
 ic/lm/lmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmri1
 0.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on prog.pdf (2 pages, 138075 bytes).
+Output written on prog.pdf (2 pages, 138087 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream

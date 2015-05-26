@@ -6,15 +6,15 @@ DATE: May 11-29, 2015, Michigan State University and FRIB/NSCL
 
 
 !split 
-=====  Venue: Lecture Hall at the National Superconducting Cyclotron Laboratory =====
+=====  Venue: Lecture Hall at the National Superconducting Cyclotron Laboratory/Nuclear Theory Conference Room =====
 !bblock
 We meet all at the _Theory Trailer_ (Trailer nr. 7) on the eastern side of the "National Superconducting Cyclotron
 Laboratory":"http://www.nscl.msu.edu/" (640 South Shaw Lane on the MSU campus).  
-We meet at 8.30am at the _Theory Trailer_ for registration. Coffee plus light refreshments are served. Thereafter we walk over to the NSCL Lecture Hall. Lectures start at 9am all days.
+We meet at 8.30am at the _Theory Trailer_ for registration. Coffee plus light refreshments are served. Thereafter we walk over to the NSCL Lecture Hall. The third week all talks will be in Nuclear Theory Conference Room in the theory trailer. Lectures start at 9am all days.
 The Theory Trailer is located close the construction site of the new NSCL/FRIB building (you will see a series of trailers). The Theory Trailer is the one closest to the "Wharton Center for performing arts at MSU":"http://www.whartoncenter.com" and Bogue street. 
 From the Town Place hotel it is a walk of at "most 20-25 min":"https://www.google.com/maps/dir/2855+Hannah+Blvd,+East+Lansing,+MI+48823/640+South+Shaw+Lane,+East+Lansing,+MI/@42.7219308,-84.4747951,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8822c2bce3547475:0xd5a97d9b6a59e537!2m2!1d-84.456337!2d42.718323!1m5!1m1!1s0x8822c2841754be71:0xb0ff5dca5dac1c71!2m2!1d-84.4738287!2d42.7247813!3e2".
 
-For those of you arriving by plane, if Detroit Metro is your final airport, we recommend using the "Michigan Flyer":"http://www.michiganflyer.com" bus service to East Lansing. Take thereafter a taxi to the Town Place hotel. If you are staying at the Kellogg conference center, they organize a shuttle transport from downtown East Lansing. If Lansing is your final airport, we recommend taking a taxi directly to the hotel. Alternatively, you can use CATA bus line 14 and connect with bus line 1 afterwards. 
+
 !eblock
 
 !split 
@@ -27,7 +27,7 @@ For those of you who cannot attend the lectures, these are streamed live (access
 
 
 !split
-===== Program first week May 11-15 2015 =====
+===== Program first week May 11-15 2015, Lecture hall NSCL =====
 !bblock 
 
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ For those of you who cannot attend the lectures, these are streamed live (access
 
 
 !split
-===== Program second week May 18-22 2015 =====
+===== Program second week May 18-22 2015, Lecture Hall NSCL =====
 !bblock 
 
 |---------------------------------------------------------------------------------|
@@ -84,7 +84,7 @@ For those of you who cannot attend the lectures, these are streamed live (access
 
 
 !split
-===== Program third week May 25-29 2015 =====
+===== Program third week May 25-29 2015, Conference Room Theory Trailer =====
 !bblock 
 
 |---------------------------------------------------------------------------------|
